@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irsupera/Documents/WEB-1001/github/WebApp/WebApp1/WebApp1.csproj",
+      "projectUniqueName": "/Users/irsupera/Documents/WEB-1001/github/WEB1001/WebApp1/WebApp1.csproj",
       "projectName": "WebApp1",
-      "projectPath": "/Users/irsupera/Documents/WEB-1001/github/WebApp/WebApp1/WebApp1.csproj",
+      "projectPath": "/Users/irsupera/Documents/WEB-1001/github/WEB1001/WebApp1/WebApp1.csproj",
       "packagesPath": "/Users/irsupera/.nuget/packages/",
-      "outputPath": "/Users/irsupera/Documents/WEB-1001/github/WebApp/WebApp1/obj/",
+      "outputPath": "/Users/irsupera/Documents/WEB-1001/github/WEB1001/WebApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/irsupera/.config/NuGet/NuGet.Config"

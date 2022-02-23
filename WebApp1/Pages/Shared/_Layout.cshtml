@@ -33,12 +33,6 @@
         </nav>
     </header>
 
-    <section class="custom-class">
-        <div class="container">
-            <p>*** Added a new section to the _layout.cshtml ***</p>
-        </div>
-    </section>
-
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -50,6 +44,8 @@
             &copy; 2022 - WebApp1 - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
     </footer>
+
+    @await RenderSectionAsync("NSection", required: false)
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

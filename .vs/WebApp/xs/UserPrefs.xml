@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{BD63E415-6238-4C76-8899-C143F82AB99A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp1/Pages/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp1/Pages/Intro.cshtml">
     <Files>
       <File FileName="WebApp1/Pages/_ViewStart.cshtml" Line="1" Column="1" />
-      <File FileName="WebApp1/Pages/Intro.cshtml" Line="1" Column="1" />
-      <File FileName="WebApp1/Pages/Shared/_Layout.cshtml" Line="54" Column="1" />
+      <File FileName="WebApp1/Pages/Intro.cshtml" Line="16" Column="18" />
+      <File FileName="WebApp1/Pages/Shared/_Layout.cshtml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,10 +11,8 @@
           <Node name="WebApp" expanded="True">
             <Node name="WebApp1" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
-                <Node name="Intro.cshtml" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Intro.cshtml" expanded="True" selected="True" />
               </Node>
             </Node>
           </Node>
